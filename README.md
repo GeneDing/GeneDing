@@ -14,7 +14,7 @@
 )](https://github.com/spe-uob/2022-SocialMediaContentGenerator)
 
 ### 🌐Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/zhen-ding-248500242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhen-ding-248500242)
 
 
 
